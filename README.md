@@ -1,6 +1,8 @@
-# Mentra: Your Personalized Career Mentor
+# Mentra: Mentoring Careers, Transforming Futures
 
-![Mentra Logo](https://github.com/AhmedYasserIbrahim/Mentra/blob/main/Logo%20HQ.png)
+<p align="center">
+  <img src="https://github.com/AhmedYasserIbrahim/Mentra/blob/main/Logo%20HQ.png" alt="Mentra Logo" width="150px" style="border-radius: 50%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+</p>
 
 ### **Project Overview**
 **Mentra** is an innovative career mentorship platform designed to empower individuals in achieving their professional aspirations. Combining personalized coaching, AI-powered mock interviews, CV optimization, and tailored learning paths, Mentra bridges the gap between career ambitions and success.
