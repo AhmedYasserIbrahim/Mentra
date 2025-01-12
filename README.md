@@ -1,6 +1,6 @@
 # Mentra: Your Personalized Career Mentor
 
-![Mentra Logo](placeholder-for-logo-url)
+![Mentra Logo](https://github.com/AhmedYasserIbrahim/Mentra/blob/main/Logo.png)
 
 ---
 
@@ -40,9 +40,3 @@ We are a passionate team of developers and innovators committed to redefining ca
 ---
 
 ## Reach out to us for any queries or suggestions!
----
-
-### **How to Get Started**
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/mentra.git
