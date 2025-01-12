@@ -1,7 +1,8 @@
 # Mentra: Your Personalized Career Mentor
 
-![Mentra Logo](https://github.com/AhmedYasserIbrahim/Mentra/blob/main/Logo.png)
-
+<p align="center">
+  <img src="https://github.com/AhmedYasserIbrahim/Mentra/blob/main/Logo.png" alt="Mentra Logo" width="200px" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+</p>
 ---
 
 ### **Project Overview**
